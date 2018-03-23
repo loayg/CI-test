@@ -10,13 +10,11 @@
     "type": "git",
     "url": "https://github.com/loayg/CI-test.git"
   },
-
   "license": "UNLICENSED",
   "keywords": [],
   "scripts": {
     "test": "mocha test/test.js"
   },
-
   "dependencies": {
     "@sendgrid/mail": "6.1.4",
     "aws-sdk": "2.122.0",
@@ -25,7 +23,7 @@
     "bluebird": "3.5.0",
     "bunyan": "2.0.2",
     "bunyan-elasticsearch": "1.0.1",
-    "chai-http": "3.0.0",
+    "chai-http": "4.0.0",
     "cls-bluebird": "2.0.1",
     "crc": "3.5.0",
     "crc-hash": "0.2.2",
