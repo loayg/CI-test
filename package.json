@@ -23,7 +23,7 @@
     "bluebird": "3.5.0",
     "bunyan": "2.0.2",
     "bunyan-elasticsearch": "1.0.1",
-    "chai-http": "3.0.0",
+    "chai-http": "4.0.0",
     "cls-bluebird": "2.0.1",
     "crc": "3.5.0",
     "crc-hash": "0.2.2",
