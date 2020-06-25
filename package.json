@@ -25,7 +25,7 @@
     "bluebird": "3.5.0",
     "body-parser": "1.18.1",
     "cors": "2.8.4",
-    "bunyan": "2.0.2",
+    "bunyan": "2.0.3",
     "bunyan-elasticsearch": "1.0.1",
     "chai-http": "4.0.0",
     "cls-bluebird": "2.0.1",
