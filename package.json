@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@sendgrid/mail": "6.1.4",
-    "aws-sdk": "2.178.0",
+    "aws-sdk": "2.814.0",
     "bcrypt": "1.0.3",
     "bitmask-flags": "1.0.0",
     "bluebird": "3.5.0",
